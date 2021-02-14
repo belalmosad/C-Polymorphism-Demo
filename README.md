@@ -10,8 +10,8 @@ Animal.cs         (Base Class)
 |<br />
 |<br />
 |<br />
-| ---- Lion.cs     (Child Class)
+| ---- Lion.cs     (Child Class) <br />
 |<br />
-| ---- Monkey.cs   (Child Class)
+| ---- Monkey.cs   (Child Class) <br />
 |<br />
-| ---- Zebra.cs    (Child Class)
+| ---- Zebra.cs    (Child Class) <br />
