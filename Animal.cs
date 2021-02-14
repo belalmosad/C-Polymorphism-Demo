@@ -17,10 +17,10 @@ namespace Zoo
         public virtual void DisplayInfo()
         {
             Console.WriteLine($"The animal type is: {Type}");
-            Console.WriteLine($"The animal age is: {Age}");
+            Console.WriteLine($"The animal age is: {Age} years");
             Console.WriteLine($"The animal gender is: {Gender}");
-            Console.WriteLine($"The animal height is: {Height}");
-            Console.WriteLine($"The animal weight is: {Weight}");
+            Console.WriteLine($"The animal height is: {Height} meters");
+            Console.WriteLine($"The animal weight is: {Weight} kgs");
         }
     }
 }
