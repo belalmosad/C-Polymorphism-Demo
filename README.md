@@ -1,4 +1,4 @@
-# C-Polymorphism-Demo
+# C#-Polymorphism-Demo
 
 This Code represents my illustration of polymorphism concept in C#.
 
